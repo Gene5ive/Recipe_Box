@@ -16,6 +16,7 @@ Andrew Finstrom & Frank Johnson
 
 ### Setup ###
 ```
+    postgres
     bundle install
     rake db:create
     rake db:migrate
